@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPreference</string>
+    <string name="setpreference">setPreference</string>
+    <string name="getpreference">getPreference</string>
+</resources>
